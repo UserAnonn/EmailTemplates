@@ -39,8 +39,12 @@
        Omnis, ea soluta est porro nam labore, minima dicta temporibus ab impedit necessitatibus ipsum doloribus. Magnam tempore rerum officiis iusto neque dolore enim eum suscipit perspiciatis nemo expedita, ea nulla.
        Impedit optio eos possimus enim minima a doloremque deleniti. Non enim ullam ex, repudiandae a doloribus sapiente dolore natus dignissimos, nesciunt, rerum voluptatem aliquam eveniet dolores sequi cum recusandae! Aperiam.
        </p>
-       <img src="https://i.ibb.co/ssjqm4W/carr.jpg" class="float-end pe-5 mt-0 mb-4" width="300"  alt="">
-       <img src="https://i.ibb.co/BBjJkSM/logo.jpg" class="float-right mt-5 ms-3 mb-3" width="270" height="60"  alt="">
     </div>
+    <div class="float-right mt-0 me-5">
+        <div class="float-right mt-0 me-5">
+            <img src="https://www.clipartmax.com/png/full/217-2179733_retail-icon.png" class="float-end pe-5 mt-0 mb-4 me-5" height="150"  alt="">
+        </div>
+    </div>
+       <img src="https://i.ibb.co/BBjJkSM/logo.jpg" class="float-right mt-5 ms-3 mb-3" width="270" height="60"  alt="">
 </body>
 </html>
